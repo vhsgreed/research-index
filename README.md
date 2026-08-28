@@ -28,5 +28,5 @@ over hundreds of files, incremental updates, no external search server.
 
 ## Companion
 
-Pair with [research-query](https://github.com/karlsune/research-query) to
+Pair with [research-query](https://github.com/vhsgreed/research-query) to
 search the corpus and get LLM-answered results.
